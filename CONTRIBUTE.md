@@ -122,7 +122,6 @@ If you disagree with a guideline, open an issue on the guides repo rather than
 debating it within the code review. In the meantime, apply the guideline.
 
 
-### Referencias
+### References
 https://gist.github.com/mikepea/863f63d6e37281e329f8
-
 https://github.com/thoughtbot/guides/tree/master/code-review 
