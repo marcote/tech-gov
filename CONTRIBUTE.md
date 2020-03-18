@@ -1,8 +1,7 @@
 # Contribution and Pull Requests Etiquette
 
 Pull Requests (PR) are the fundamental unit of how we progress change and the vehicle to deliver value and new features to our users.
-A good Pull Request should match a task from the backlog, and it should take 2 or 3 days of effort to complete it. 
-If your PR takes more time, it means your taks could be decomposed into smaller tasks. The smaller the tasks, the smaller the PR, hence easier to review the code. Not to mention it will be easier to revert if something goes wrong. It's not easy at the beginning, but the reviewers (remember, you're one of them!) will thank you.
+A good Pull Request should match a task from the backlog, and it should take 2 or 3 days of effort to complete it. If your PR takes more time, it means your tasks could be decomposed into smaller tasks. The smaller the tasks, the smaller the PR, hence easier to review the code. Not to mention it will be easier to revert if something goes wrong. It's not easy at the beginning, but the reviewers (remember, you're one of them!) will thank you.
 
 Design discussions should be taken outside the scope of the PR. While yes, in the Open Source world, the PR is the place to have design and code style discussions, we work at same team and for the same company. If we're having too many design discussions in a PR, this means we haven't designed our feature correctly and haven't asked for feedback from more experienced team members in advanced. If this happens, please talk with your team members. Not only its a great way to understand the existing codebase, good communication is essential for a healthy and productive team.
 
