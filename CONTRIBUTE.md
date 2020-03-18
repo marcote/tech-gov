@@ -47,7 +47,6 @@ A good PR should be able to flow through a peer review system easily and quickly
 - Assign 2+ reviewers to every PR
 
 ## Guidelines 
----
 
 ### Everyone
 
@@ -125,3 +124,5 @@ debating it within the code review. In the meantime, apply the guideline.
 
 ### Referencias
 https://gist.github.com/mikepea/863f63d6e37281e329f8
+
+https://github.com/thoughtbot/guides/tree/master/code-review 
