@@ -1,6 +1,6 @@
 # Contribution and Pull Requests Etiquette
 
-Pull Requests (PR) are the fundamental unit of how we progress change and the vehicle to deliver value and new features to our users.
+Pull Requests (PR) are the fundamental unit of progress and the vehicle to deliver value and new features to our users.
 A good Pull Request should match a task from the backlog, and it should take 2 or 3 days of effort to complete it. If your PR takes more time, it means your tasks could be decomposed into smaller ones. The smaller the tasks, the smaller the PR, hence easier to review the code. Not to mention it will be easier to revert if something goes wrong. It's not easy at the beginning, but the reviewers (remember, you're one of them!) will thank you.
 
 Design discussions should be taken outside the scope of the PR. While yes, in the Open Source world, the PR is the place to have design and code style discussions, we work at same team and for the same company. If we're having too many design discussions in a PR, this means we haven't designed our feature correctly and haven't asked for feedback from more experienced team members in advanced. If this happens, please talk with your team members. Not only its a great way to understand the existing codebase, good communication is essential for a healthy and productive team.
@@ -51,7 +51,7 @@ A good PR should be able to flow through a peer review system easily and quickly
 
 * Accept that many programming decisions are opinions. Discuss tradeoffs, which
   you prefer, and reach a resolution quickly.
-* Remember that you are here to provide feedback, not to be a gatekeeper.
+* Remember that you are here to provide feedback, **not to be a gatekeeper**.
 * Ask good questions; don't make demands. ("What do you think about naming this
   `:user_id`?")
 * Good questions avoid judgment and avoid assumptions about the author's
@@ -105,7 +105,6 @@ Understand why the change is necessary (fixes a bug, add value to the users, ref
   them. ("What do you think about using a custom validator here?")
 * Seek to understand the author's perspective.
 * Sign off on the pull request with a :thumbsup:, "LGTM" (looks good to me) or "Ready to merge" comment.
-* Remember that you are here to provide feedback, not to be a gatekeeper.
 
 ## Keep the flow going
 
@@ -122,5 +121,12 @@ debating it within the code review. In the meantime, apply the guideline.
 
 
 ### References
+
 https://gist.github.com/mikepea/863f63d6e37281e329f8
+
 https://github.com/thoughtbot/guides/tree/master/code-review 
+
+https://lab.github.com/githubtraining/reviewing-pull-requests
+
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+
